@@ -12,7 +12,6 @@
     "cors": "^2.8.5",
     "json-server": "^0.17.4"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Keerthana-L-Raj/Pet-care-backend.git"
