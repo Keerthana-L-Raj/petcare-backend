@@ -3,14 +3,23 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-  "start": "json-server --watch db.json"
-},
+    "start": "json-server --watch db.json"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
     "json-server": "^0.17.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keerthana-L-Raj/Pet-care-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Keerthana-L-Raj/Pet-care-backend/issues"
+  },
+  "homepage": "https://github.com/Keerthana-L-Raj/Pet-care-backend#readme",
+  "description": ""
 }
